@@ -1,0 +1,6 @@
+Why was OOP invented? 
+
+What problems is it solving?
+
+Why not just have a lot of methods in one file?
+

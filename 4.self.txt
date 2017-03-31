@@ -1,0 +1,3 @@
+What is self?
+What gets returned if you open irb and type self?
+What's the difference between a class and an instance method?

@@ -1,0 +1,2 @@
+What is a getter method?
+What is a setter method?

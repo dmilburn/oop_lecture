@@ -1,0 +1,4 @@
+What is initialize for?
+Can you create a class without an initialize?
+
+What is the benefit of using an args hash?
